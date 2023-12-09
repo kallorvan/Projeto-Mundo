@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "457794238887",
+    "project_id": "minhasviagens-252aa",
+    "storage_bucket": "minhasviagens-252aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457794238887:android:345f05667a9f9b3329de82",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSvGcC3uTdPmwMkv1w6pJS-XQB-3hd8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457794238887:android:af5ebc40e1f2e0ff29de82",
+        "android_client_info": {
+          "package_name": "com.mycompany.minhasviagens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSvGcC3uTdPmwMkv1w6pJS-XQB-3hd8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457794238887:android:cdbcab92aeb2c21d29de82",
+        "android_client_info": {
+          "package_name": "com.mycompany.projetomundo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSvGcC3uTdPmwMkv1w6pJS-XQB-3hd8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
